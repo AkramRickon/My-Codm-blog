@@ -73,3 +73,46 @@ p
     background-repeat: no-repeat;
 }
 
+.section-3-display
+{
+    display:flex;
+    margin-bottom: 150px;
+}
+
+.section-3-half-width
+{
+    width:40%;
+    margin-left:5%;
+    margin-right:50px;
+    padding:0px 5px;
+    box-shadow: 10px 10px 40px grey;
+}
+
+#section-3-gradient1
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,tomato);
+    border-image-slice: 1;
+    border-radius: 7px;
+}
+#section-3-gradient2
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(green,tomato);
+    border-image-slice: 1;
+    border-radius: 7px;
+}
+#section-3-h1-padding
+{
+    padding:20px;
+}
+.section-3-background
+{
+    background-image: url("image/exp-bg.png");
+    background-position:left;
+    background-repeat: no-repeat;
+}
+footer p{
+    text-align: center;
+    color: rgb(255, 71, 71);
+}
