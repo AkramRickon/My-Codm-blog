@@ -56,3 +56,20 @@ p
     background-position:left;
     background-repeat: no-repeat;
 }
+
+.section-2
+{
+    display:flex;
+    margin-bottom: 150px;
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+
+.section-2-background
+{
+    background-image: url("image/dream-bg.png");
+    background-position:right;
+    background-repeat: no-repeat;
+}
+
