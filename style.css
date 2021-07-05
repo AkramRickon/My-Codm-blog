@@ -116,7 +116,11 @@ p
 }
 footer p{
     text-align: center;
-    color: rgb(255, 71, 71);
+    color: white;
+    background-color:black;
+    height:40px;
+    font-weight: bold;
+    padding-top:15px;
 }
 
 
